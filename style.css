@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(58, 58, 58);
+}
+
+.container{
+    position: relative;
+    top: 20px;
+}
+
+.h-1{
+    color: #fff;
+}
