@@ -1,0 +1,18 @@
+GET  http://localhost:3007/api/publicacion
+
+
+POST  http://localhost:3007/api/publicacion
+Content-Type: application/json
+
+{
+    "titulo" : "Hola",
+    "descripcion" : "Nueva descripcion",
+    "imagen" : "www.url.com"
+}
+
+
+PUT  http://localhost:3007/api/publicacion
+
+
+DELETE  http://localhost:3007/api/publicacion
+
